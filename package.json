@@ -1,0 +1,25 @@
+{
+  "name": "unit6_project",
+  "version": "0.0.1",
+  "description": "Treehouse Project 6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichellevdWalt/unit6_project.git"
+  },
+  "author": "Michelle van der Walt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichellevdWalt/unit6_project/issues"
+  },
+  "homepage": "https://github.com/MichellevdWalt/unit6_project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}

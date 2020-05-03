@@ -1,0 +1,50 @@
+{ "projects": [
+    {"id": "0",
+     "project_name": "Random Quote Generator",
+     "description": "A website that generates a random quote on a random background colour. This happens automatically or when the user clicks on the button",
+     "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
+     "live_link": "https://michellevdwalt.github.io/randomquotegenerator/randomquotegenerator/",
+     "github_link": "https://github.com/MichellevdWalt/randomquotegenerator.git",
+     "image_urls": ["../static/images/unit1_1.PNG", "../static/images/unit1_2.PNG"]
+
+    },
+    {"id": "1",
+        "project_name": "List Pagination and Search",
+        "description": "A page to paginate a list of students to 10 per page. A search bar filters the students per user input",
+        "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
+        "live_link": "https://michellevdwalt.github.io/list_pagination_and_filtering_mvdw/list_pagination_and_filtering_mvdw/#",
+        "github_link": "https://github.com/MichellevdWalt/list_pagination_and_filtering_mvdw.git",
+        "image_urls": ["../static/images/unit2_1.PNG", "../static/images/unit2_2.PNG"]
+        
+    },
+    {"id": "2",
+    "project_name": "Interactive Form",
+    "description": "A basic form for a mock conference. Checks the validity of data entered and displays a message accordingly. The other text field only displays when the user has chosen other from the dropdown menu.  The color drop down list is only displayed when the user has chosen a theme and the colors are disabled according to the theme choice. A live calculator calculates the fees payable according to the users choice of activities. The payment method information is only shown for the chosen option from the drop-down list.",
+    "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
+    "live_link": "https://michellevdwalt.github.io/interactive-form_mvdw/interactive-form_mvdw/",
+    "github_link": "https://github.com/MichellevdWalt/interactive-form_mvdw.git",
+    "image_urls": ["../static/images/unit3_1.PNG", "../static/images/unit3_2.PNG"]
+    
+    },
+    {"id": "3",
+    "project_name": "OOP Guess the Phrase Game",
+    "description": "A guess the phrase game. The user types or clicks one of the on-screen letters to guess the phrase. If wrong, the user loses a heart and the letter disables and turns red. If correct the letter displays in the phrase and the letter on the keyboard is disabled. If the user guessed wrong 5 times, a lost page is displayed with a button to reset the game with a new phrase. If the player guessed the phrase correcly a winning page is displayed with a button to restart the game with a new phrase.",
+    "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
+    "live_link": "https://michellevdwalt.github.io/oop_game_mvdw/oop_game_mvdw/",
+    "github_link": "https://github.com/MichellevdWalt/oop_game_mvdw.git",
+    "image_urls": ["../static/images/unit4_1.PNG", "../static/images/unit4_2.PNG", "../static/images/unit4_3.PNG", "../static/images/unit4_4.PNG"]
+    
+    },
+    {"id": "4",
+        "project_name": "Public API request",
+        "description": "A page that fetches 12 random users from a mock-user API. It displays them on the page as cards. Clicking on one of the cards opens a modal window with additional info for the person. The modal window has previous and next buttons to flip between the cards. The buttons are disabled as needed when the first and last card is reached. There is a search bar to filter the 12 cards. Refreshing the page displays a new set of 12 random cards with data from the public API",
+        "technologies": ["Vanilla JavaScript", "HTML", "CSS", "AJAX", "Asynchronous JavaScript"],
+        "live_link": "https://michellevdwalt.github.io/public_api_request/public_api_request/",
+        "github_link": "https://github.com/MichellevdWalt/public_api_request.git",
+        "image_urls":  ["../static/images/unit5_1.PNG", "../static/images/unit5_2.PNG", "../static/images/unit5_3.PNG"]
+        
+       }
+
+    ]
+
+}
